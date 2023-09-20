@@ -3,7 +3,7 @@ CV Ophélia CHHEAK étudiante lycée turgot en bts informatique cybersécurité
 ## Compétences
 j'ai des compétences en SISR
 ### systeme
-- windows sercer
+- windows server
 - linux
 - v2x
 ### Dev
