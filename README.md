@@ -6,6 +6,7 @@ CV Ophélia CHHEAK étudiante Lycée Turgot en BTS Informatique Cybersécurité
 - SQL
 - HTML
 - CSS
+- git(github)
 ### Réseaux
 - Cisco Packet Tracker
 ### Cybersécurité
